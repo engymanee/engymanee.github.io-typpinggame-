@@ -6,6 +6,7 @@
   body {
     font-family: arial, helvetica, sans-serif;
     background-color: rgb(182, 143, 76);
+    background-image: url(fox6.jpeg.crdownload);
     color: rgb(240, 227, 227);
   }
   
@@ -25,6 +26,16 @@
     font-size: 4em;
     line-height: 105%;
     color: white;
+  }
+
+  h2 {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3em;
+    line-height: 105%;
+    color: white;
+    ;
   }
   
   p {
