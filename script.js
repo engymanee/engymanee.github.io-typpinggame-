@@ -10,7 +10,7 @@ let startTime;
 function startGame(){
             console.log('game started!');
 
-            quoteText = 'type me now';
+            quoteText = 'THE QUICK BROWN FOX JUMPS OVER A LAZY DOG';
             wordQueue = quoteText.split(' ');
             quote.innerHTML = wordQueue.map(word=>(`<span>${word}</span>`)).join('');
 
