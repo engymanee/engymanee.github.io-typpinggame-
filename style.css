@@ -5,7 +5,7 @@
   
   body {
     font-family: arial, helvetica, sans-serif;
-    background-color: #82acc0;
+    background-color: rgb(182, 143, 76);
     color: rgb(240, 227, 227);
   }
   
@@ -34,11 +34,11 @@
   }
   
   .error {
-    background-color: #68080b;
+    background-color: #be4145;
   }
   
   .highlight {
-    color: #a1801d;
+    color: #ffbf00;
     text-decoration: bold;
   }
   
@@ -98,7 +98,7 @@
     text-transform: uppercase;
     font-size: 3em;
     font-weight: bold;
-    color: #FFC312;
+    color: #32105f;
   }
   
   .winner {
@@ -151,7 +151,7 @@
   }
 
   .wrapper {
-    max-width: 600px;
+    max-width: 1000px;
     margin: 0 auto;
     width: 100%;
     text-align: center;
